@@ -83,7 +83,7 @@ public class Controlador {
 
     /**
      * Mostra un menú amb les dificultats del joc i li demana a l'usuari que trïi quina desitja.
-     * @param scan Dificultat que vol jugar l'usuari (introduït per teclat per aquest)
+     * @param scan Dificultat que vol jugar l'usuari (introduït per teclat per aquest).
      */
     static void setLevel(Scanner scan) {
         boolean error;
