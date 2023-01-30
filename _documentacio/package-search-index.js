@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"minesvce"},{"l":"minesvce.controlador"},{"l":"minesvce.model"},{"l":"minesvce.vista"}];updateSearchResults();
