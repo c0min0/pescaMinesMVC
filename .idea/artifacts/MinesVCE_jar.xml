@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="MinesVCE:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/MinesVCE_jar</output-path>
-    <root id="archive" name="MinesVCE.jar">
-      <element id="module-output" name="MinesVCE" />
-    </root>
-  </artifact>
-</component>
