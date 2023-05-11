@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"minesvce.controlador","l":"Controlador"},{"p":"minesvce","l":"Mines"},{"p":"minesvce.model","l":"Model"},{"p":"minesvce.vista","l":"Vista"}];updateSearchResults();
